@@ -1,0 +1,7 @@
+try{
+//The code you wont to ran
+}
+catch(error){
+//error return the error alert (if there is)
+app.ShowPopup(error);
+}
