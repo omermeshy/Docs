@@ -1,0 +1,13 @@
+<sample Example>
+function OnStart()
+{
+<b>	try
+  {
+      1=2;
+  }
+  catch(e)
+  {
+      app.ShowPopup(e);
+  }
+</b>}
+</sample>
